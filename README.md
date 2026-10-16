@@ -12,4 +12,4 @@ GitHub: Used to store and manage the project.
 Data structures: Maps and lists are used to store and work with vertices and edges.
 
 
-Honestly, I found this project quite challenging because there were times when I didn't fully understand how the different classes worked together. I struggled with figuring out where to make changes and how to fix errors when something didn't work the way I expected. Sometimes I would fix one thing and then get another error, which was frustrating. When trying to add more functions it would interrupt the code that was already give to us. A lot more work needs to be done
+Honestly, I found this project quite challenging because there were times when I didn't fully understand how the different classes worked together. I struggled with figuring out where to make changes and how to fix errors when something didn't work the way I expected. Sometimes I would fix one thing and then get another error, which was frustrating. When trying to add more functions it would interrupt the code that was already give to us. A lot more work needs to be done. I just tried to add the algorithm logger and cycle detection features to the code. 
